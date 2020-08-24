@@ -1,0 +1,8 @@
+{
+    "body": "{\"name\":\"Minion 1\",\"price\":12.60, \"qtd\":10}",
+    "requestContext": {
+      "identity": {
+        "cognitoIdentityId": "USER-SUB-1234"
+      }
+    }
+  }
